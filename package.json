@@ -1,6 +1,6 @@
 {
   "name": "nest-typeorm-paginator",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "author": "mourabraz <mourabraz@hotmail.com>",
   "private": false,
@@ -16,8 +16,8 @@
     "test": "jest",
     "test:watch": "npm test -- --watch",
     "test:cov": "npm test -- --coverage",
-    "prepare": "npm run build",
-    "prepublishOnly": "npm test && npm run lint",
+    "prepublishOnly": "",
+    "prepare": "npm test && npm run lint && npm run build",
     "preversion": "npm run lint",
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
