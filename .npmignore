@@ -1,4 +1,5 @@
 src
+coverage
 tsconfig.json
 tsconfig.build.json
 .eslintrc.js
