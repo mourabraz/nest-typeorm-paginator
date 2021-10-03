@@ -3,5 +3,5 @@ tsconfig.json
 tsconfig.build.json
 .eslintrc.js
 .prettierrc
-config.pagination.ts
+config.pagination.js
 nest-cli.json
