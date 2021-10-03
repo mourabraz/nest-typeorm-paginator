@@ -11,7 +11,7 @@ A helper package to paginate,sort and filter your lists.
 ## Installation
 
 ```bash
-$ npm install nestjs-typeorm-paginator
+$ npm install nest-typeorm-paginator
 ```
 
 ## Usage
